@@ -41,14 +41,14 @@ include("marco-right.php");
     
 
 
-                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
-                   <p  class="eys-parrafo">Hoy en día creso sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para lo cual utilizo el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
+                   <p  class="eys-parrafo"> Trabajo ocacionalmente realizando mantenimoento a computadoras y celulares.</p> 
+                   
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Soy amante a la lectura, así que en los ratos libres me encanta actualizar mis conocimientos leyendo manuales de los leguajes de progración que namejo, y tambien muchos noticias de las ultimas tendencias en tecnología.</p>
+                   <p   class="eys-parrafo">Me gusta el doporte sobre todo voleibol y atletismo, también los juegos de PC como lo son shooters o mmorpg</p>
        
 
                    
@@ -79,7 +79,7 @@ include("marco-left.php")
 <script >  
 
  document.title="Stalin"; 
-document.getElementById("foto").src="./images/stalin.png";
+document.getElementById("foto").src="./images/PETTER.jpg";
 document.getElementById("elnombre").innerHTML="Stalin Francis";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
