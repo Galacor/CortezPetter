@@ -79,7 +79,7 @@ include("marco-left.php")
 <script >  
 
  document.title="Stalin"; 
-document.getElementById("foto").src="./images/PETTER.jpg";
+document.getElementById("foto").src="./images/Petter.jpeg";
 document.getElementById("elnombre").innerHTML="Stalin Francis";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
