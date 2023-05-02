@@ -78,7 +78,7 @@ include("marco-left.php")
  
 <script >  
 
- document.title="Stalin"; 
+ document.title="Cortez Petter"; 
 document.getElementById("foto").src="./images/Petter.jpeg";
 document.getElementById("elnombre").innerHTML="Cortez Petter";
 
