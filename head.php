@@ -10,7 +10,7 @@
 <head>
  <title> Educaysoft </title>
 <meta charset="utf-8"/>
-	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link href="images/Petter.jpeg" rel="shortcut icon" type="image/x-icon" />
 	<meta name="description" content="Biografía de Cortez Petter" />
 
 	<meta property="og:image" content="https://highkickesmeraldas.com/FrancisStalin/images/fotoperfil.png" />
