@@ -41,7 +41,7 @@ include("marco-right.php");
     
 
 
-                   <p  class="eys-parrafo">Mi primer programa lo hice en lenguaje de Java con IDE Netbeans, también otro lenguaje que he usado es el c++ donde lo utilice por primera vez en el bachillerato y realice una calculadora cientifica tambien trabajo ocacionalmente realizando mantenimoento a computadoras y celulares.</p> 
+                   <p  class="eys-parrafo">Mi primer programa lo hice en lenguaje de Java con IDE Netbeans, también otro lenguaje que he usado es el c++ donde lo utilice por primera vez en el bachillerato y realice una calculadora cientifica tambien trabajo ocacionalmente realizando mantenimoento a computadoras y celulares</p> 
                    
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
