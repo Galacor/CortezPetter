@@ -34,7 +34,7 @@ include("marco-right.php");
 
 
                    <p class="eys-parrafo">En el bachillerato estudie en la Unidad Educativa Fiscomicional María Auxiliadora en la carrera de informatica y donde consegui mi titulo de Técnico de Servicios Administración de Sistemas y fue aqui donde me empezo a gustar mas sobre esta carrera y por eso la segui eligiendo para poder aprender mas sobre ella</p>
-                   <p class="eys-parrafo">Soy un apasionado de la tecnología desde la secundaria, quizás sea por esa capacidad que el conocimiento en estos dos campos puede solucionar muchos problemas de la sociedad, es por eso que desde que terminé mi bachillerato técnico me he propuesto seguir con esta carrera sobre las tecnologias del mundo.</p>
+                   <p class="eys-parrafo">Soy un apasionado de la tecnología desde la secundaria, quizás sea por esa capacidad que el conocimiento en estos dos campos puede solucionar muchos problemas de la sociedad y es por eso que desde que terminé mi bachillerato técnico me he propuesto seguir con esta carrera sobre las tecnologias del mundo.</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
